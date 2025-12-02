@@ -10,7 +10,7 @@ Theory-Driven, Clinically-Biased, and Data-Congruent in Principles.
 ## Principles
 * Small Data > Big Data
 * Reverse Engineering
-  Concretely, this translates to prioritizing *accounting* for variability in context directly in the model, over *controlling* or *extinguishing* that variability through empirical or statistical anchoring.
+  * Concretely, this translates to prioritizing *accounting* for variability in context directly in the model, over *controlling* or *extinguishing* that variability through empirical or statistical anchoring.
   
 ## Acknowledgements
 This work was done during my time at the Center for Brain Circuit Therapeutics at Brigham and Women's while I was a Research Fellow at Harvard Medical School.
